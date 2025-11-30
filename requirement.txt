@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+langgraph
+ollama
+seaborn
+fastapi
+uvicorn
+python-multipart
+celery
+redis
+aiofiles
