@@ -1,5 +1,6 @@
 import ollama
 
+ollama.base_url = "http://127.0.0.1:11434"
 
 def llm_explanation_node(state):
     system_prompt="""You are a data analyst assistant.
